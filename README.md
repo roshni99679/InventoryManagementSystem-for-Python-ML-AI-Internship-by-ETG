@@ -30,7 +30,9 @@ Programming Languages: C,C++,Python,Front-end WebDevelopment.
 My Social Media Profiles:
 
 LinkedIn:  https://www.linkedin.com/in/roshni-gupta-36b1941b0/
+
 Github:    https://github.com/roshni99679/
+
 Instagram: https://www.instagram.com/rosssh._/
 
 My portfolio Website:
